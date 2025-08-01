@@ -1,3 +1,4 @@
+#In this project, you'll learn how to import modules from the Python standard library. You'll also learn how to use Regular Expressions by building your own password generator program.
 import re
 import secrets
 import string
